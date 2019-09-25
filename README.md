@@ -1,1 +1,1 @@
-# demoAutoplanet
+# autoplanet
